@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.1.2] - 2020-05-11
+## [1.1.2] - 2020-05-11111
 ### Fixed
 - Fixes (venv build) reference to SDL\_main.h [\#493](https://github.com/kivy/kivy-ios/issues/493) ([AndreMiras](https://github.com/AndreMiras))
 
